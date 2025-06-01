@@ -8,8 +8,10 @@ A portfolio website to showcase smart technology projects, built using HTML, CSS
 - Projects with images and descriptions
 - GitHub Pages hosting
 
-## 🚀 Live Site
+## 
+
 [Click here to view the website](https://martinashaba.github.io/tech-innovations/)
+
 
 
 ## 📁 Folder Structure
